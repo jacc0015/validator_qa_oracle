@@ -1,0 +1,10 @@
+# Seguridad de Credenciales
+.env
+
+# Datos Sensibles (Snapshots de Blackboard)
+logs/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
