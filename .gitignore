@@ -3,6 +3,7 @@
 
 # Datos Sensibles (Snapshots de Blackboard)
 logs/
+master_data/
 *.csv
 
 # Python
